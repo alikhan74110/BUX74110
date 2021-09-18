@@ -1,16 +1,30 @@
-### Hi there 👋
+### Introduction
+👋 Hi, my name is ALIKHAN, better known as ALIKHAN/AK in some forums, I am 23 years old and I live in Thailand.
 
-<!--
-**BUX74110/BUX74110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been developing in .NET for several years, I am passionate about application security and cryptographic algorithms.
 
-Here are some ideas to get you started:
+I like the back-end much more than the front-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![ALIKHAN jpg](https://www.img.in.th/images/632029e435479d2916c11b43e1a896e4.md.jpg)
+
+### Interests
+Cryptographic algorithms.
+Theoretical information & analysis.
+Multiplatform development.
+Freelancing.
+Knowledge
+I can create desktop applications in C# or Visual Basic Python(I hate VB tho) and backend using PHP.
+
+Self taught application/desktop developer.
+.NET Reverse Engineering (WIP).
+Forex Trade  
+Cryptocurrency (hobby).
+
+### Contact
+Discord: AK#4000
+
+FB: 
+
+If you want to contact me about a security issue, please encrypt your communications using PGP.
+Email: zaok.5555@gmail.com
