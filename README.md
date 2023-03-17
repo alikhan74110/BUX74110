@@ -6,7 +6,7 @@ I have been developing in .NET for several years, I am passionate about applicat
 I like the back-end much more than the front-end.
 
 
-![ALIKHAN jpg](https://sv1.picz.in.th/images/2023/03/17/e8U7mE.jpg)
+![ALIKHAN jpg](https://sv1.picz.in.th/images/2023/03/17/e8U7mE.md.jpg)
 
 ### Interests
 Cryptographic algorithms.
@@ -24,7 +24,7 @@ Cryptocurrency (hobby).
 ### Contact
 Discord: AK#4000
 
-FB: 
+FB: fb.me/Army.bux
 
 If you want to contact me about a security issue, please encrypt your communications using PGP.
-Email: zaok.5555@gmail.com
+Email: alikhan74110@gmail.com
